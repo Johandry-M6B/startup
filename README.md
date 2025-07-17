@@ -3,7 +3,7 @@
 Este proyecto replica las funcionalidades clave de Azure DevOps Boards con un enfoque en gestión ágil de tareas, mejorado con capacidades de IA.
 
 ## Similitudes con Azure DevOps
-# Estructura Kanban:
+ Estructura Kanban:
 
 - Columnas similares a Azure: "To Do" (Por Hacer), "Progress"  (En Progreso) y "Done" (Terminado)
 
