@@ -35,11 +35,11 @@ Comentarios manuales	Sugerencias de resolución automática
 - Tailwind
 
 ## graph TD
-    A[Frontend] --> B[Tailwind CSS]
-    A --> C[TypeScript]
-    D[Backend] --> E[IA Integration]
-    E --> F[OpenAI API]
-    E --> G[Auto-clasificación]
+     A[Frontend] --> B[Tailwind CSS]
+     A --> C[TypeScript]
+     D[Backend] --> E[IA Integration]
+     E --> F[OpenAI API]
+     E --> G[Auto-clasificación]
 ##  Cómo Usar (Comparativo)
 Acción	En Azure DevOps	En Nuestro Sistema
 Crear tarea	Nuevo Work Item	Textarea + Generación IA
@@ -65,10 +65,10 @@ Documentar	Campos descriptivos	Autocompletado con IA
 2. Instala las dependencias (asumiendo que tienes Node.js instalado):
 
 
-    npm install
+     npm install
 3. Inicia el servidor de desarrollo:
 
-    npm run dev
+     npm run dev
 
 ## Como Usarlo
 1. Introduce tareas en el área de texto (panel izquierdo)
