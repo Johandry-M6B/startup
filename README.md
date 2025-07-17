@@ -47,11 +47,11 @@ Mover tarea	Drag & Drop	Drag & Drop + IA sugiere columnas
 Priorizar	Manualmente	IA sugiere prioridad
 Documentar	Campos descriptivos	Autocompletado con IA
 ##  Roadmap (vs Azure)
-# Fase Actual:
+1. Fase Actual:
 
-Mínimo Producto Viable con columnas básicas
+- Mínimo Producto Viable con columnas básicas
 
-# Próximas Fases:
+2. Próximas Fases:
 
 - Sprint Planning integrado (como Azure Sprints)
 
